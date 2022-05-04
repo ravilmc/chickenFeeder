@@ -1,0 +1,15 @@
+{
+  "bulbOn": true,
+  "motorOn": false,
+  "minimumTemperature": 30,
+  "motorManulOn": false,
+  "bulbManualOn": false,
+  "motorOnTime": [
+    {
+      "hr": 10,
+      "min": 29,
+      "minutes": 2,
+      "id": 1
+    }
+  ]
+}
